@@ -36,3 +36,9 @@ __pycache__/
 .linux.libindy
 .macosbuild
 *.zip
+
+# NPM dependencies
+node_modules
+
+# Node wrapper build outputs
+dist
